@@ -1,0 +1,23 @@
+S
+20
+// Dictionary for the Spec "Second Example"
+rain
+ruin
+run
+sail
+she
+shy
+ski
+skip
+sky
+slap
+slip
+soap
+soil
+soul
+soup
+sue
+sun
+tail
+trail
+train

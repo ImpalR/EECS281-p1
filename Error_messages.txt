@@ -1,0 +1,27 @@
+Everything below the line of dashes is a valid error message.  If an input
+is valid (not one of the INV test cases) and you output one of these
+allowed error messages, the autograder will show you the error message,
+which will help you with debugging.  For example, you rejected a valid
+input, thinking that we forgot the -s or --stack.  If you receive that
+error message for a valid test case, you know where to start debugging.
+
+If you want to have more debugging help, you can add a second line after
+the first.  The autograder won't show it to you, but it could be useful
+for your own testing.  For example:
+
+    cerr << "Invalid output mode specified" << endl;
+    cerr << "  Invalid output mode is: " << outMode << endl;
+
+Some of these may not be in the "Errors you must check for" section, but
+are still useful for debugging purposes.
+---------------------------------------------------------------------------
+Conflicting or duplicate stack and queue specified
+Must specify one of stack or queue
+Must specify at least one modification mode (change length swap)
+Beginning word not specified
+Ending word not specified
+Beginning word does not exist in the dictionary
+Ending word does not exist in the dictionary
+The first and last words must have the same length when length mode is off
+Invalid output mode specified
+Unknown command line option

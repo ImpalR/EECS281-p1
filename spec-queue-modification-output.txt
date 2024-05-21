@@ -1,0 +1,5 @@
+Words in morph: 4
+chip
+c,2,o
+c,0,s
+c,1,t
